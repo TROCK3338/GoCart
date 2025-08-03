@@ -1,0 +1,6 @@
+/backend/vendor/
+/backend/gocart.db
+/backend/gocart.db-shm
+/backend/gocart.db-wal
+/frontend/node_modules
+/frontend/build
